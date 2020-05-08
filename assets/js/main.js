@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "https://medium.com/feed/@hossainkhan",
+        "https://medium.com/feed/@abhishekkaushik3009",
         
         {
         // how many entries do you want?
